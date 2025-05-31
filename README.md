@@ -9,28 +9,17 @@
 
 ```dart
 class blackshell {
-  String role = "Flutter Developer & Instructor";
+  String role = "software engineer ";
   String language = "Arabic";
-  String brand = "Learn Simply | اتعلم ببساطة";
   List<String> skills = [
-    "Flutter UI/UX",
+    "C",
     "Dart Animations",
-    "Python, Java, C++",
-    "GitHub & Copilot",
-    "Arabic Content Creation"
-    "Simplify Code"
+    "C, C#, C++",
+    "GitHub",
+    "Cyber Security"
   ];
 }
 ```
-## 🔥 Highlights
-
-- 🔥 Built a YouTube channel with **230K+ subscribers**
-- 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
-- 📚 Founder of [learrnsimply.com](https://learrnsimply.com) – an Arabic-first coding school
-- 🧩 Building **reusable Flutter components**, animations & UI kits
-- 📦 Making **clean code fun** to learn for beginners
-
----
 
 ## 🧰 Tech Toolbox
 
@@ -49,15 +38,6 @@ class blackshell {
 
 ---
 
-## 🎬 My YouTube Focus
-
-- ✅ **Flutter basics to advanced** (in Arabic)
-- ✅ **Problem-solving** with C++ & Java
-- ✅ **Real app UIs** with animations
-- ✅ Tips for **VS Code, Git**, and productivity
-- ✅ Free projects and walkthroughs
-
-▶️ Check it out: [**YouTube - Learn Simply**](https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1)
 
 ---
 
