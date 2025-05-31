@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm black shell 👋</h1>
-<h3 align="center">c++ Developer 🧠 | Cyber Security 🎥 </a> 📚</h3>
+<h3 align="center">c++ Developer 🧠 | Cyber Security 🛡️ </a> </h3>
 
 <p align="center">
   <a href="https://instagram.com/ahmed.aaddel"><img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 ```dart
-class AhmedAdel {
+class blackshell {
   String role = "Flutter Developer & Instructor";
   String language = "Arabic";
   String brand = "Learn Simply | اتعلم ببساطة";
