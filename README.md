@@ -1,14 +1,6 @@
 <h1 align="center">Hi, I'm black shell 👋</h1>
 <h3 align="center">c++ Developer 🧠 | Cyber Security 🛡️ </a> </h3>
 
-<p align="center">
-  <a href=""><img src="" /></a>
-  <a href=""><img src="" /></a>
-  <a href=""><img src="" /></a>
-  <a href="><img src="" /></a>
-  <a href=""><img src="" /></a>
-</p>
-
 ---
 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
